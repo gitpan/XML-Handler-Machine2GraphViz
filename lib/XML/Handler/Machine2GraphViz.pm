@@ -29,7 +29,7 @@ A SAX2 processor that turns SAX machine descriptions in to a GraphViz object.
 
 =cut
 
-$VERSION = 0.11;
+$VERSION = 0.2;
 
 use XML::Filter::Dispatcher;
 use Exporter;
